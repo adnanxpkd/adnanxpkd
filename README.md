@@ -186,3 +186,4 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 </div>
 
 <!-- Crafted with 💙 by Muhammed Adnan K -->
+ 
