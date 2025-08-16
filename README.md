@@ -131,10 +131,6 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 ## ⚡ GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=adnanxpkd&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
@@ -142,13 +138,6 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
   <img src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
-
----
-
-### 💻 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&theme=tokyonight&hide_border=true&layout=compact&custom_title=Most%20Used%20Languages)
-
-</div>
 
 ---
 
@@ -164,11 +153,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ## 📊 Contribution Graph
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=react-dark&area=true&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
