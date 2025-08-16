@@ -153,7 +153,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=react-dark&area=true&hide_border=true)
 
 </div>
 
