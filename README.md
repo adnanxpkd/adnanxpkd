@@ -1,3 +1,34 @@
+## ⚡ GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adnanxpkd&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 📊 Repo Analytics (Repobeats)
+
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg" alt="Repobeats analytics" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/adnanxpkd/adnanxpkd/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 <div align="center">
 
 # 👨‍💻 Muhammed Adnan K
