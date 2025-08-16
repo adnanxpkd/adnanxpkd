@@ -1,36 +1,3 @@
-## ⚡ GitHub Pulse
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adnanxpkd&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
-## 📊 Repo Analytics (Repobeats)
-
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg" alt="Repobeats analytics" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/adnanxpkd/adnanxpkd/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<div align="center">
-
 # 👨‍💻 Muhammed Adnan K
 
 ### Python Full Stack Developer |  Tech Content Creator  |  AI Future 
@@ -159,9 +126,22 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 </div>
 
 ---
-<!--### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnanxpkd&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7dcfff&ring=7aa2f7&fire=ff9e64&currStreakNum=bb9af7&sideNums=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=9ece6a)
--->
+## ⚡ GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adnanxpkd&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
 
 ### 💻 Language Distribution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&theme=tokyonight&hide_border=true&layout=compact&custom_title=Most%20Used%20Languages)
