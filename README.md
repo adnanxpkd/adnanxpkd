@@ -27,11 +27,13 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 - *Database Management:* NoSQL and SQL database optimization
 - *Cloud & Deployment:* Scalable cloud infrastructure solutions
 
+
 ### 🌟 What Sets Me Apart
 - *Community Impact:* Creator of [@AiTechWaveML](https://t.me/AITechWaveML) - sharing AI & tech insights in Malayalam
 - *Problem Solver:* Expertise in reverse engineering and automation solutions
 - *Continuous Learner:* Always exploring emerging technologies and AI tools
 - *Knowledge Sharing:* Committed to making complex tech concepts accessible
+
 
 ---
 
