@@ -127,6 +127,8 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ---
 
+<div align="center">
+ 
 ### `> connection_established ⚡`
 
 </div>
