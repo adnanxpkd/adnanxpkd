@@ -143,38 +143,38 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-# 🌐 Let's Connect & Build Together
+### `Connect • Collaborate • Create`
 
 <table>
 <tr>
 <td align="center">
 <a href="https://linkedin.com/in/muhammed-adnan-k-88b612281">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/><br/>
-<sub><b>💼 LinkedIn</b></sub>
+<sub><b>LINKEDIN</b></sub>
 </a>
 </td>
 <td align="center">
 <a href="https://t.me/adnanxpkd">
 <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/><br/>
-<sub><b>💬 Telegram</b></sub>
+<sub><b>TELEGRAM</b></sub>
 </a>
 </td>
 <td align="center">
 <a href="mailto:adnanxpkd@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/><br/>
-<sub><b>📧 Email</b></sub>
+<sub><b>EMAIL</b></sub>
 </a>
 </td>
 <td align="center">
 <a href="https://instagram.com/adnanxpkd">
 <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/><br/>
-<sub><b>📸 Instagram</b></sub>
+<sub><b>INSTAGRAM</b></sub>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/adnanxpkd">
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/>
-<sub><b>💻 GitHub</b></sub>
+<sub><b>GITHUB</b></sub>
 </a>
 </td>
 </tr>
