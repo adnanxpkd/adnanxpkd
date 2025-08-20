@@ -131,7 +131,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/muhammed-adnan-k-88b612281)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/adnanxpkd)
 [![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/adnanxpkd)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adnanxpkd@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/adnanxpkd)
