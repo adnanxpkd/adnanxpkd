@@ -94,33 +94,33 @@
 ## 🚀 Additional Stats Widgets You Can Add:
 
 ### WakaTime Coding Stats (if you use WakaTime):
-```markdown
+
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adnanxpkd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-```
+
 
 ### GitHub Trophies:
-```markdown
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adnanxpkd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-```
+
 
 ### Profile Summary Card:
-```markdown
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnanxpkd&theme=tokyonight)
-```
+
 
 ## 🎯 My Recommendation:
 
 **Replace your current widget with Option 1** - it's modern, shows comprehensive stats, and matches the upgraded profile theme perfectly!
 
 Current (outdated):
-```markdown
+
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=adnanxpkd&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
-```
+
 
 **Upgraded (recommended):**
-```markdown
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
