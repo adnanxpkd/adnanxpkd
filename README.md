@@ -232,6 +232,91 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
+### `> connecting_to_network...`
+### `> status: ONLINE ✅`
+
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/muhammed-adnan-k-88b612281">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/><br/>
+<sub><b>~/linkedin</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/><br/>
+<sub><b>~/telegram</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:adnanxpkd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/><br/>
+<sub><b>~/gmail</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/><br/>
+<sub><b>~/instagram</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/>
+<sub><b>~/github</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+### `> connection_established ⚡`
+
+</div>
+
+<div align="center">
+
+## `<Connect>` with me `</Connect>`
+
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/muhammed-adnan-k-88b612281">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/><br/>
+<sub><b><code>LinkedIn</code></b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/><br/>
+<sub><b><code>Telegram</code></b></sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:adnanxpkd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/><br/>
+<sub><b><code>Gmail</code></b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/><br/>
+<sub><b><code>Instagram</code></b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/>
+<sub><b><code>GitHub</code></b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 ### 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
