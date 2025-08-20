@@ -35,7 +35,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ## 🛠 Technical Skills
 
-<div>
+<div align="center">
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
