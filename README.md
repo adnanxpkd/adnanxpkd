@@ -131,21 +131,11 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-<a href="https://linkedin.com/in/muhammed-adnan-k-88b612281">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://t.me/adnanxpkd">
-  <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/>
-</a>
-<a href="mailto:adnanxpkd@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
-<a href="https://instagram.com/adnanxpkd">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-</a>
-<a href="https://github.com/adnanxpkd">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-</a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/muhammed-adnan-k-88b612281)
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/adnanxpkd)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adnanxpkd@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/adnanxpkd)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/adnanxpkd)
 
 </div>
 
