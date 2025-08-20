@@ -146,21 +146,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 </a>
 </td>
 <td align="center">
-<a href="https://t.me/adnanxpkd" target="_blank" class="telegram-btn"></a>
-
-<style>
-.telegram-btn {
-  display: inline-block;
-  width: 48px;
-  height: 48px;
-  background-color: #0088cc; /* Telegram blue */
-  -webkit-mask: url("https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg") no-repeat center;
-  -webkit-mask-size: contain;
-  mask: url("https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg") no-repeat center;
-  mask-size: contain;
-}
-</style>
-
+<a href="https://t.me/adnanxpkd">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="48" height="48" style="background:#0088cc; border-radius:50%; padding:5px;"/><br/>
+<sub><b><code>Telegram</code></b></sub>
 </td>
 <td align="center">
 <a href="mailto:adnanxpkd@gmail.com">
