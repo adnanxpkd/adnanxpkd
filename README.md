@@ -131,11 +131,21 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-adnan-k-88b612281)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adnanxpkd)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanxpkd@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adnanxpkd)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adnanxpkd)
+<a href="https://linkedin.com/in/muhammed-adnan-k-88b612281">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/adnanxpkd">
+  <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/>
+</a>
+<a href="mailto:adnanxpkd@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
+<a href="https://instagram.com/adnanxpkd">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+</a>
+<a href="https://github.com/adnanxpkd">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
 
 </div>
 
