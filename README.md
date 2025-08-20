@@ -43,7 +43,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
