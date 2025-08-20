@@ -3,24 +3,24 @@
 ## 🎯 Replace Your Current Stats With These Modern Options:
 
 ### Option 1: Side-by-Side Stats (Recommended)
-```markdown
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
-```
+
 
 ### Option 2: GitHub Stats + Streak Combo
-```markdown
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=adnanxpkd&theme=radical&hide_border=false"/>
 </div>
-```
+
 
 ### Option 3: Comprehensive Dashboard
-```markdown
+
 <div align="center">
 
 <!-- GitHub Stats -->
@@ -36,10 +36,10 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=react-dark&area=true&hide_border=true)
 
 </div>
-```
+
 
 ### Option 4: Cards Layout
-```markdown
+
 <div align="center">
 <table>
 <tr>
@@ -63,17 +63,17 @@
 </tr>
 </table>
 </div>
-```
+
 
 ### Option 5: Matrix Style (Matches Your Green Theme)
-```markdown
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=adnanxpkd&theme=chartreuse-dark&hide_border=true"/>
 </div>
-```
+
 
 ## 🎨 Available Themes for Customization:
 
