@@ -146,13 +146,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 </a>
 </td>
 <td align="center">
- <a href="https://t.me/adnanxpkd" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="#0088cc">
-    <path d="M9.999 15.6L9.9 19.8c.4 0 .6-.2.8-.4l2-1.8 
-             4.1 3c.8.4 1.3.2 1.5-.8l2.8-13.2c.2-1-.4-1.4-1.1-1.1L2.9 
-             9.1c-1 .4-1 1 .2 1.4l4.5 1.4L17.3 6c.5-.3 1-.1.6.2"/>
-  </svg>
-</a>
+<a href="https://t.me/adnanxpkd">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="48" height="48" style="background:#0088cc; border-radius:50%; padding:5px;"/><br/>
+<sub><b><code>Telegram</code></b></sub>
 </td>
 <td align="center">
 <a href="mailto:adnanxpkd@gmail.com">
