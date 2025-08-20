@@ -36,82 +36,51 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 ## 🛠 Technical Skills
 
 <div align="center">
-  
+
 ### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-</div>
-
-<div align="center">
-  
 ### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,bootstrap,tailwind)](https://skillicons.dev)
 
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-</div>
-
-<div align="center">
-  
 ### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres)](https://skillicons.dev)
 
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-</div>
-
-<div align="center">
-  
 ### Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=heroku,vercel,netlify,railway,docker)](https://skillicons.dev)
 
-
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-</div>
-
-
-<div align="center">
-  
 ### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,pycharm)](https://skillicons.dev)
 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-
-</div>
-
-<div align="center">
-  
 ### Operating Systems
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
 
 </div>
+
+---
+
+### Alternative Layouts
+
+#### Compact Single Row
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,bootstrap,tailwind,mongodb,mysql,sqlite,postgres,heroku,vercel,netlify,docker,git,vscode)](https://skillicons.dev)
+
+#### With Custom Themes
+```markdown
+<!-- Light theme -->
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css&theme=light)](https://skillicons.dev)
+
+<!-- Dark theme (default) -->
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css&theme=dark)](https://skillicons.dev)
+```
+
+#### Per Line Control
+```markdown
+<!-- 4 icons per line -->
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css&perline=4)](https://skillicons.dev)
+
+<!-- 6 icons per line -->
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi&perline=6)](https://skillicons.dev)
+```
 
 ---
 
