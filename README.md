@@ -147,7 +147,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 </td>
 <td align="center">
 <a href="https://t.me/adnanxpkd">
-<img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="48" height="48" style="background:#0088cc; border-radius:50%; padding:5px;"/><br/>
 <sub><b><code>Telegram</code></b></sub>
 </a>
 </td>
