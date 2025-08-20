@@ -184,6 +184,47 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
+# 🚀 Ready to Collaborate?
+
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/muhammed-adnan-k-88b612281">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/><br/>
+<sub><b>Network</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=telegram" alt="Telegram"/><br/>
+<sub><b>Chat</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:adnanxpkd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/><br/>
+<sub><b>Email</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/><br/>
+<sub><b>Follow</b></sub>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/adnanxpkd">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><br/>
+<sub><b>Code</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 ### 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
