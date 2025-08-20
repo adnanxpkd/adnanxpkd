@@ -87,13 +87,8 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-### 📈 Repo Beats Analytics
-
-<div align="center">
-
-![RepoBeats](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg)
-
-</div>
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=adnanxpkd&theme=tokyonight&hide_border=true&background=0d1117)
 
 ---
 <!--### 🔥 Streak Stats
