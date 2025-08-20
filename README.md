@@ -59,30 +59,6 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ---
 
-### Alternative Layouts
-
-#### Compact Single Row
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,bootstrap,tailwind,mongodb,mysql,sqlite,postgres,heroku,vercel,netlify,docker,git,vscode)](https://skillicons.dev)
-
-#### With Custom Themes
-
-<!-- Light theme -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css&theme=light)](https://skillicons.dev)
-
-<!-- Dark theme (default) -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css&theme=dark)](https://skillicons.dev)
-
-
-#### Per Line Control
-
-<!-- 4 icons per line -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css&perline=4)](https://skillicons.dev)
-
-<!-- 6 icons per line -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi&perline=6)](https://skillicons.dev)
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
