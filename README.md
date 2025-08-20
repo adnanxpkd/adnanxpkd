@@ -175,11 +175,6 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-### 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=adnanxpkd&style=for-the-badge&color=brightgreen)
 
 ### "Code is poetry written in logic"
