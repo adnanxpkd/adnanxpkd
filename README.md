@@ -175,11 +175,18 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=adnanxpkd&style=for-the-badge&color=brightgreen)
+---
 
-### "Code is poetry written in logic"
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
+
+---
+
+### "The best way to predict the future is to invent it." 
+*– Alan Kay*
+
+![Profile Views](https://komarev.com/ghpvc/?username=adnanxpkd&style=for-the-badge&color=brightgreen&label=Profile+Visits)
 
 </div>
 
-<!-- Crafted with 💙 by Muhammed Adnan K -->
- 
+<!-- 🎨 Crafted with ❤️ by Muhammed Adnan K -->
+<!-- 🚀 Profile last updated: Dynamic -->
