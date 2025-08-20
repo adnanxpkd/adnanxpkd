@@ -140,7 +140,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 <table>
 <tr>
 <td align="center">
-<a href="https://linkedin.com/in/muhammed-adnan-k-88b612281">
+<a href="https://linkedin.com/in/adnanxpkd">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/><br/>
 <sub><b><code>LinkedIn</code></b></sub>
 </a>
