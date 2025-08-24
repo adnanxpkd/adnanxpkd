@@ -7,9 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=adnanxpkd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 </div>
-
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=adnanxpkd&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
