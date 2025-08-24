@@ -13,18 +13,18 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=adnanxpkd&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
-## 🚀 About Me
+ ## 🚀 About Me
 
 I'm a *self-taught Python Full Stack Developer* passionate about creating innovative solutions and making technology accessible to everyone. With expertise spanning web development, automation, and AI integration, I specialize in building scalable applications and sharing knowledge with the tech community.
 
-### 🎯 Core Expertise
+ ### 🎯 Core Expertise
 - *Backend Development:* Python-based web applications and APIs
 - *Frontend Technologies:* Modern web interfaces with responsive design
 - *Bot Development:* Advanced Telegram bot creation and automation
 - *Database Management:* NoSQL and SQL database optimization
 - *Cloud & Deployment:* Scalable cloud infrastructure solutions
 
-### 🌟 What Sets Me Apart
+ ### 🌟 What Sets Me Apart
 - *Community Impact:* Creator of [@AiTechWaveML](https://t.me/AITechWaveML) - sharing AI & tech insights in Malayalam
 - *Problem Solver:* Expertise in reverse engineering and automation solutions
 - *Continuous Learner:* Always exploring emerging technologies and AI tools
