@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
 # 👨‍💻 Muhammed Adnan K
  ### `Python Full Stack Developer` • `Tech Content Creator` • `AI Enthusiast`
