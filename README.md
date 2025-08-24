@@ -111,11 +111,11 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ---
 
-[## 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=adnanxpkd&theme=react)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=react-dark&area=true&hide_border=true)
 
 </div>
 
