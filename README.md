@@ -90,6 +90,13 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=adnanxpkd&theme=react)
 
 ---
+
+![](https://raw.githubusercontent.com/adnanxpkd/adnanxpkd/master/profile-summary-card-output/react/0-profile-details.svg)
+![](https://raw.githubusercontent.com/adnanxpkd/adnanxpkd/master/profile-summary-card-output/react/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/adnanxpkd/adnanxpkd/master/profile-summary-card-output/react/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/adnanxpkd/adnanxpkd/master/profile-summary-card-output/react/3-stats.svg)
+![](https://raw.githubusercontent.com/adnanxpkd/adnanxpkd/master/profile-summary-card-output/react/4-productive-time.svg)
+
 <!--### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnanxpkd&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7dcfff&ring=7aa2f7&fire=ff9e64&currStreakNum=bb9af7&sideNums=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=9ece6a)
 -->
