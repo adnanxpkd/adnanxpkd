@@ -87,7 +87,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 <div align="center">
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=adnanxpkd&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=adnanxpkd&theme=react)
 
 ---
 <!--### 🔥 Streak Stats
