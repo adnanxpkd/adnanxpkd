@@ -111,7 +111,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ---
 
-## 📊 Contribution Graph
+[## 📊 Contribution Graph
 
 <div align="center">
 
