@@ -13,7 +13,7 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=adnanxpkd&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
- ## 🚀 About Me
+## 🚀 About Me
 
 I'm a *self-taught Python Full Stack Developer* passionate about creating innovative solutions and making technology accessible to everyone. With expertise spanning web development, automation, and AI integration, I specialize in building scalable applications and sharing knowledge with the tech community.
 
