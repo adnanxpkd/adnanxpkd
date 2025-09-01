@@ -3,7 +3,6 @@
 # 👨‍💻 Muhammed Adnan K
  ### `Python Full Stack Developer` • `Tech Content Creator` • `AI Enthusiast`
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+the+Future+with+Code;Python+%7C+AI+%7C+Web+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 [![](https://visitcount.itsvg.in/api?id=adnanxpkd&icon=0&color=0)](https://visitcount.itsvg.in)
