@@ -291,8 +291,8 @@ mindmap
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanxpkd&repo=your-repo-1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/adnanxpkd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanxpkd&repo=your-repo-2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/adnanxpkd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanxpkd&repo=To-Do-Hub&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/adnanxpkd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanxpkd&repo=adnanxpkd&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/adnanxpkd)
 
 </div>
 
