@@ -87,14 +87,12 @@ print(dev.mantra())
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" /> </div>
----
-
-## 📊 Contribution Graph
-
-<div align="center"> ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=react-dark&area=true&hide_border=true) </div>
 
 ---
+### 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=react-dark&area=true&hide_border=true)
 
+---
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adnanxpkd&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7" />
