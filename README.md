@@ -233,39 +233,141 @@ print(developer.life_philosophy())
 
 ---
 
-## 💼 Skills Breakdown
+## 💼 Professional Skills Matrix
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Muhammed<br/>Adnan K))
-    Backend Development
-      Python
-      Flask & FastAPI
-      RESTful APIs
-      Microservices
-    Frontend Development
-      HTML/CSS/JS
-      Bootstrap
-      Tailwind CSS
-      Responsive Design
-    Database Management
-      MongoDB
-      MySQL
-      PostgreSQL
-      Query Optimization
-    DevOps & Cloud
-      Docker
-      CI/CD
-      Heroku/Vercel
-      Linux Administration
-    Specialized Skills
-      Telegram Bots
-      Web Scraping
-      Automation
-      Reverse Engineering
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Backend Development
+```yaml
+Languages:
+  - Python (Advanced)
+  - SQL (Proficient)
+
+Frameworks:
+  - Flask: ████████████ 95%
+  - FastAPI: ███████████░ 90%
+  - Django: ████████░░░░ 70%
+
+APIs & Services:
+  - RESTful API Design
+  - Microservices Architecture
+  - WebSocket Integration
+  - Third-party API Integration
 ```
+
+### 🗄️ Database Expertise
+```yaml
+NoSQL:
+  - MongoDB: ████████████ 95%
+  - Redis: ████████░░░░ 75%
+
+SQL:
+  - MySQL: ███████████░ 90%
+  - PostgreSQL: ██████████░░ 85%
+  - SQLite: ████████████ 95%
+
+Skills:
+  ✓ Query Optimization
+  ✓ Database Design
+  ✓ Indexing Strategies
+  ✓ Data Migration
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+```yaml
+Core Technologies:
+  - HTML5: ████████████ 95%
+  - CSS3: ███████████░ 90%
+  - JavaScript: ██████████░░ 85%
+
+Frameworks & Libraries:
+  - Bootstrap: ████████████ 95%
+  - Tailwind CSS: ███████████░ 90%
+  - jQuery: ████████░░░░ 75%
+
+Capabilities:
+  ✓ Responsive Design
+  ✓ UI/UX Implementation
+  ✓ Cross-browser Compatibility
+  ✓ Modern CSS Features
+```
+
+### ⚙️ DevOps & Cloud
+```yaml
+Containerization:
+  - Docker: ██████████░░ 80%
+  - Docker Compose: ████████░░░░ 75%
+
+Cloud Platforms:
+  - Heroku: ████████████ 95%
+  - Vercel: ███████████░ 90%
+  - Netlify: ██████████░░ 85%
+
+CI/CD & Version Control:
+  - Git/GitHub: ████████████ 95%
+  - Linux Administration: ███████████░ 90%
+  - Shell Scripting: ████████░░░░ 75%
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🚀 Specialized Skills & Expertise
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/telegram-app.png" width="60"/><br/>
+<b>Telegram Bots</b><br/>
+<sub>Advanced bot development with<br/>python-telegram-bot library</sub><br/>
+<code>████████████ 95%</code>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/automatic.png" width="60"/><br/>
+<b>Automation</b><br/>
+<sub>Task automation, scripting,<br/>and workflow optimization</sub><br/>
+<code>███████████░ 90%</code>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/spider.png" width="60"/><br/>
+<b>Web Scraping</b><br/>
+<sub>Data extraction with BeautifulSoup,<br/>Selenium, and Scrapy</sub><br/>
+<code>███████████░ 90%</code>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/processor.png" width="60"/><br/>
+<b>Reverse Engineering</b><br/>
+<sub>API analysis, protocol<br/>understanding, and debugging</sub><br/>
+<code>██████████░░ 85%</code>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Additional Tools & Technologies
+
+<p align="center">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+</p>
 
 </div>
 
