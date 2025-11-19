@@ -22,7 +22,6 @@
   </p>
 </div>
 
-
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=adnanxpkd&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
