@@ -14,7 +14,6 @@
     <a href="https://github.com/adnanxpkd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
-
   <!-- Views & Followers -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=adnanxpkd&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
