@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Tomorrow+with+Code+%F0%9F%94%A5;Python+%E2%9A%A1+AI+%F0%9F%A4%96+Automation+%F0%9F%A4%96;From+Kerala+to+the+Cloud+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </p>
 
+
   <!-- Social Badges -->
   <p>
     <a href="https://linkedin.com/in/adnanxpkd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
