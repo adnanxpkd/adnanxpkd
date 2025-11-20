@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=200&section=header&text=Muhammed%20Adnan%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Full%20Stack%20%7C%20AI%20Enthusiast%20%7C%20Bot%20Wizard&descSize=18&descAlignY=55"/>
   
+  
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Tomorrow+with+Code+%F0%9F%94%A5;Python+%E2%9A%A1+AI+%F0%9F%A4%96+Automation+%F0%9F%A4%96;From+Kerala+to+the+Cloud+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </p>
