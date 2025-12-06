@@ -81,20 +81,20 @@ print(dev.mantra())
 ---
 ## 📊 GitHub Stats Dashboard
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring=00FF41" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanxpkd&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41&sideLabels=00FF41" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring=00FF41" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedadnank&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41&sideLabels=00FF41" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" /> </div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" /> </div>
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=react-dark&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedadnank&theme=react-dark&area=true&hide_border=true)
 
 ---
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnanxpkd&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedadnank&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7" />
 </div>
 
 ---
