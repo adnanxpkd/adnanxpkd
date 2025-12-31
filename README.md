@@ -203,7 +203,19 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 </div>
 
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&animation=twinkling"/>
+  
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+like+them!;🤝+Open+to+collabs+and+freelance;🚀+Let's+build+something+epic+together!" />
+  </p>
 
+  <p>
+    <img src="https://media.giphy.com/media/M9gbBd9oNEd1OBk2tE/giphy.gif" width="60"/>
+    <i><b>Love connecting with builders!</b> Drop a Hi on Telegram – I reply to everyone 😊</i>
+  </p>
+
+</div>
 
 
   <sub>✨ <b>Crafted with ❤️, ☕ and countless hours of coding by Muhammed Adnan K</b> ✨</sub>
