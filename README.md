@@ -5,7 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Tomorrow+with+Code+🔥;Python+⚡+AI+🤖+Automation+🤖;From+Kerala+to+the+Cloud+☁️;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
   </p>
   
-
+  <!-- Social Badges -->
+  <p>
+    <a href="https://linkedin.com/in/muhammedadnank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://t.me/adnanxpkd"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="mailto:adnanxpkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://instagram.com/adnanxpkd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://github.com/muhammedadnank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
 
   <!-- Views & Followers -->
   <p>
