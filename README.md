@@ -81,13 +81,12 @@ print(dev.mantra())
 
 ## 📊 GitHub Stats Dashboard
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring=00FF41" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedadnank&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41&sideLabels=00FF41" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=muhammedadnank&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41&sideLabels=00FF41" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedadnank&theme=radical&utcOffset=5.5" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
