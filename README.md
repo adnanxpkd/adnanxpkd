@@ -1,4 +1,5 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=200&section=header&text=Muhammed%20Adnan%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Full%20Stack%20%7C%20AI%20Enthusiast%20%7C%20Bot%20Wizard&descSize=18&descAlignY=55"/>
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Tomorrow+with+Code+🔥;Python+⚡+AI+🤖+Automation+🤖;From+Kerala+to+the+Cloud+☁️;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
