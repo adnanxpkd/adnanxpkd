@@ -14,13 +14,7 @@
     <a href="https://github.com/muhammedadnank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
-  <!-- Views & Followers -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=muhammedadnank&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/muhammedadnank?label=Followers&style=for-the-badge&color=00ff00" alt="followers" />
-    <img src="https://img.shields.io/github/stars/muhammedadnank?label=Stars&style=for-the-badge&color=FFD700" alt="stars" />
-  </p>
-</div>
+
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=muhammedadnank&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
