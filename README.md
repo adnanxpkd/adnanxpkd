@@ -79,24 +79,18 @@ print(dev.mantra())
 </div>
 
 
-## 📊 GitHub Stats Dashboard
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=muhammedadnank&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41&sideLabels=00FF41" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+| 🏆 Total Repos | ⭐ Total Stars | 🔀 Forks | 👀 Watchers |
+|:--------------:|:--------------:|:--------:|:-----------:|
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff00&label=Repos&query=public_repos&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github) | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=for-the-badge&color=FFD700&logo=github) | ![Forks](https://img.shields.io/github/forks/muhammedadnank?style=for-the-badge&color=blue&logo=github) | ![Watchers](https://img.shields.io/github/watchers/muhammedadnank?style=for-the-badge&color=orange&logo=github) |
+
 </div>
 
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedadnank&theme=react-dark&area=true&hide_border=true)
-
----
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedadnank&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7" />
-</div>
 
 ---
 ## 🐍 Contribution Snake
