@@ -102,13 +102,13 @@ print(dev.mantra())
 ## 🐍 Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
-> **📝 Setup Instructions**: To generate your own snake animation, check out [Platane's Snake Generator](https://github.com/Platane/snk) and add it to your profile repo.
+> **📝 Note**: This uses a demo animation. To generate your own, fork [Platane's Snake Generator](https://github.com/Platane/snk) and update the URLs above.
 
 ---
 ## 🚀 Skills Matrix
