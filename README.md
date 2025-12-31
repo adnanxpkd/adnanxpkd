@@ -78,22 +78,7 @@ print(dev.mantra())
 
 </div>
 
----
-## 🏆 Featured Projects
-<div align="center">
 
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| 🤖 **[AI Telegram Bot](https://github.com/muhammedadnank)** | Advanced bot with payments & AI | `Python` `Pyrogram` `FastAPI` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
-| 🌐 **[FastAPI Template](https://github.com/muhammedadnank)** | Production-ready API boilerplate | `FastAPI` `PostgreSQL` `Docker` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
-| 🧠 **[Web Scraper Pro](https://github.com/muhammedadnank)** | Intelligent data extraction tool | `BeautifulSoup` `Selenium` `MongoDB` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
-| ⚡ **[RAG System](https://github.com/muhammedadnank)** | AI-powered document chat | `LangChain` `ChromaDB` `OpenAI` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
-
-<sub>⭐ **Star my repos if you find them useful!** 🚀</sub>
-
-</div>
-
----
 ## 📊 GitHub Stats Dashboard
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring=00FF41" />
