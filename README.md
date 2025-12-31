@@ -217,3 +217,5 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 
 </div>
 
+
+  <sub>✨ <b>Crafted with ❤️, ☕ and countless hours of coding by Muhammed Adnan K</b> ✨</sub>
