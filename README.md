@@ -83,14 +83,14 @@ print(dev.mantra())
 
 <div align="center">
 
-| 🏆 Total Repos | ⭐ Total Stars | 🔀 Forks | 👀 Watchers |
-|:--------------:|:--------------:|:--------:|:-----------:|
-| ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff00&label=Repos&query=public_repos&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github&cacheSeconds=300) | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=for-the-badge&color=FFD700&logo=github&cacheSeconds=300) | ![Forks](https://img.shields.io/github/forks/muhammedadnank?style=for-the-badge&color=blue&logo=github&cacheSeconds=300) | ![Watchers](https://img.shields.io/github/watchers/muhammedadnank?style=for-the-badge&color=orange&logo=github&cacheSeconds=300) |
+| 🏆 Total Repos | ⭐ Total Stars | � Public Gists | � Followers |
+|:--------------:|:--------------:|:---------------:|:------------:|
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff00&label=Repos&query=public_repos&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github&cacheSeconds=300) | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=for-the-badge&color=FFD700&logo=github&cacheSeconds=300&affiliations=OWNER) | ![Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=Gists&query=public_gists&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github&cacheSeconds=300) | ![Followers](https://img.shields.io/github/followers/muhammedadnank?style=for-the-badge&color=orange&logo=github&cacheSeconds=300) |
 
 </div>
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedadnank&theme=react-dark&area=true&hide_border=true&t=<?php echo time(); ?>)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedadnank&theme=react-dark&area=true&hide_border=true)
 
 ---
 ## 🐍 Contribution Snake
