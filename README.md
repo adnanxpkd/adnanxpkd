@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=200&section=header&text=Muhammed%20Adnan%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Full%20Stack%20%7C%20AI%20Enthusiast%20%7C%20Bot%20Wizard&descSize=18&descAlignY=55"/>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Tomorrow+with+Code+%F0%9F%94%A5;Python+%E2%9A%A1+AI+%F0%9F%A4%96+Automation+%F0%9F%A4%96;From+Kerala+to+the+Cloud+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Tomorrow+with+Code+🔥;Python+⚡+AI+🤖+Automation+🤖;From+Kerala+to+the+Cloud+☁️;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
   </p>
   
   <!-- Social Badges -->
@@ -27,7 +27,7 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="380" src="https://cdn.discordapp.com/attachments/1199485189559042118/1310546146145017867/coding.gif?ex=66e2f7f2&is=66e1a672&hm=8b8f1f3d2f3b8b0f6e6b7d8d9e0f1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t&=">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 ```python
@@ -56,7 +56,7 @@ print(dev.mantra())
 ```
 <br clear="right"/>
 
-### 🎯 What I’m Building
+### 🎯 What I'm Building
 - 🔥 Scalable web apps with **FastAPI + React**
 - 🤖 Advanced **Telegram bots** with AI & payments
 - 🧠 AI-powered automation tools
@@ -79,6 +79,21 @@ print(dev.mantra())
 </div>
 
 ---
+## 🏆 Featured Projects
+<div align="center">
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| 🤖 **[AI Telegram Bot](https://github.com/muhammedadnank)** | Advanced bot with payments & AI | `Python` `Pyrogram` `FastAPI` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
+| 🌐 **[FastAPI Template](https://github.com/muhammedadnank)** | Production-ready API boilerplate | `FastAPI` `PostgreSQL` `Docker` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
+| 🧠 **[Web Scraper Pro](https://github.com/muhammedadnank)** | Intelligent data extraction tool | `BeautifulSoup` `Selenium` `MongoDB` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
+| ⚡ **[RAG System](https://github.com/muhammedadnank)** | AI-powered document chat | `LangChain` `ChromaDB` `OpenAI` | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=social) |
+
+<sub>⭐ **Star my repos if you find them useful!** 🚀</sub>
+
+</div>
+
+---
 ## 📊 GitHub Stats Dashboard
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring=00FF41" />
@@ -86,7 +101,9 @@ print(dev.mantra())
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" /> </div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedadnank&theme=radical&utcOffset=5.5" />
+</div>
 
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedadnank&theme=react-dark&area=true&hide_border=true)
@@ -98,18 +115,21 @@ print(dev.mantra())
 </div>
 
 ---
-## 🐍 Contribution Snake (Dark/Light Mode)
+## 🐍 Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+> **📝 Setup Instructions**: To generate your own snake animation, check out [Platane's Snake Generator](https://github.com/Platane/snk) and add it to your profile repo.
 
 ---
 ## 🚀 Skills Matrix
 <div align="center">
+
 ```mermaid
 mindmap
   root((Adnan K))
@@ -134,33 +154,48 @@ mindmap
       10K+ Members
       Malayalam Tech
 ```
+
 </div>
 
 ---
 ## 🌱 Currently Mastering
 <div align="center">
 
-| Skill                  | Progress| Target |
-|------------------------|--------|--------|
-| 🤖 Machine Learning    |   80%  | Production ML |
-| ☁️ AWS & Azure         |   70%  | Certified |
-| ⚡ React + Next.js      |   75%  | Full-Stack Pro |
-| 🔐 Ethical Hacking     |   65%  | Bug Bounty |
-| 🐙 Kubernetes          |   50%  | Orchestration |
+| Skill                  | Progress | Target |
+|------------------------|----------|--------|
+| 🤖 Machine Learning    | ![80%](https://progress-bar.dev/80?color=00ff00&width=120) | Production ML |
+| ☁️ AWS & Azure         | ![70%](https://progress-bar.dev/70?color=00aaff&width=120) | Certified |
+| ⚡ React + Next.js      | ![75%](https://progress-bar.dev/75?color=61dafb&width=120) | Full-Stack Pro |
+| 🔐 Ethical Hacking     | ![65%](https://progress-bar.dev/65?color=ff0000&width=120) | Bug Bounty |
+| 🐙 Kubernetes          | ![50%](https://progress-bar.dev/50?color=326ce5&width=120) | Orchestration |
 
 </div>
 
 ---
-## 📈 Weekly Coding Time
+## 📈 Weekly Coding Activity
 <!--START_SECTION:waka-->
 ```text
 Python       14 hrs 20 mins   ████████████████░░░░░   72.1%
 JavaScript   3 hrs 50 mins    ████░░░░░░░░░░░░░░░░░   19.3%
 HTML/CSS     1 hr 40 mins     ██░░░░░░░░░░░░░░░░░░░   8.4%
 SQL          30 mins          █░░░░░░░░░░░░░░░░░░░░   2.5%
-Other        15 mins          ░░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 <!--END_SECTION:waka-->
+
+> **💡 To enable auto-updating stats**: Check out [WakaTime GitHub Action](https://github.com/athul/waka-readme) for automatic weekly updates!
+
+---
+## 💡 Fun Facts About Me
+<div align="center">
+
+🎯 **Code by night, debug by day** ☕  
+🎮 **Gamer turned developer** 🕹️  
+📚 **Tech book collector** (200+ PDFs organized perfectly)  
+🌍 **Open source advocate** – love contributing & learning  
+🎵 **Lofi beats** = Peak productivity mode  
+💬 **Tamil & Malayalam speaker** – bridging tech in regional languages  
+
+</div>
 
 ---
 ## 🤝 Let's Connect!
@@ -168,10 +203,10 @@ Other        15 mins          ░░░░░░░░░░░░░░░░�
 
 | Platform       | Link                                                    | Purpose                     |
 |----------------|---------------------------------------------------------|-----------------------------|
-| 💼 LinkedIn    | [adnanxpkd](https://linkedin.com/in/adnanxpkd)          | Professional & Networking   |
-| 💬 Telegram    | [adnanxpkd](https://t.me/adnanxpkd)                    | Quick Chats & Collabs       |
+| 💼 LinkedIn    | [muhammedadnank](https://linkedin.com/in/muhammedadnank) | Professional & Networking   |
+| 💬 Telegram    | [@adnanxpkd](https://t.me/adnanxpkd)                    | Quick Chats & Collabs       |
 | 📧 Email       | [adnanxpkd@gmail.com](mailto:adnanxpkd@gmail.com)       | Projects & Opportunities    |
-| 🚀 Community   | [AiTechWaveML](https://t.me/AITechWaveML)              | **AI Updates**        |
+| 🚀 Community   | [@AiTechWaveML](https://t.me/AITechWaveML)              | **AI Updates in Malayalam** |
 
 <a href="https://t.me/AITechWaveML">
   <img src="https://img.shields.io/badge/Join%20AiTechWaveML-10K%2B%20Members-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -180,11 +215,21 @@ Other        15 mins          ░░░░░░░░░░░░░░░░�
 </div>
 
 ---
+## 📌 Quick Links
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammedadnank.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://adnanxpkd.hashnode.dev)
+
+</div>
+
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&animation=twinkling"/>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%AD%90+Star+my+repos+if+you+like+them!;%F0%9F%A4%9D+Open+to+collabs+and+freelance;%F0%9F%9A%80+Let's+build+something+epic+together!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+like+them!;🤝+Open+to+collabs+and+freelance;🚀+Let's+build+something+epic+together!" />
   </p>
 
   <p>
@@ -192,6 +237,6 @@ Other        15 mins          ░░░░░░░░░░░░░░░░�
     <i><b>Love connecting with builders!</b> Drop a Hi on Telegram – I reply to everyone 😊</i>
   </p>
 
-  <sub>✨ <b>Crafted with ❤️, ☕ and 200+ hours of coding by Muhammed Adnan K</b> ✨</sub>
+  <sub>✨ <b>Crafted with ❤️, ☕ and countless hours of coding by Muhammed Adnan K</b> ✨</sub>
 </div>
 
