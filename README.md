@@ -215,6 +215,5 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
     <i><b>Love connecting with builders!</b> Drop a Hi on Telegram – I reply to everyone 😊</i>
   </p>
 
-  <sub>✨ <b>Crafted with ❤️, ☕ and countless hours of coding by Muhammed Adnan K</b> ✨</sub>
 </div>
 
