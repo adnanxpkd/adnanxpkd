@@ -61,9 +61,25 @@ print(dev.mantra())
 - 🤖 Advanced **Telegram bots** with AI & payments
 - 🧠 AI-powered automation tools
 - ☁️ Cloud-native deployments (Docker + CI/CD)
-- 🌟 Leading **@AiTechWaveML** – Kerala's largest AI community (Malayalam)
+- 🌟 Leading **[@AiTechWaveML](https://t.me/AITechWaveML)** – Kerala's largest AI community (Malayalam)
 
 ---
+
+## 🏆 Featured Projects
+
+> 💡 *Pinning your best work here makes recruiters and collaborators stop scrolling!*
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedadnank&repo=YOUR_BEST_REPO_1&theme=radical&hide_border=true)](https://github.com/muhammedadnank/YOUR_BEST_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedadnank&repo=YOUR_BEST_REPO_2&theme=radical&hide_border=true)](https://github.com/muhammedadnank/YOUR_BEST_REPO_2)
+
+</div>
+
+> **📌 Replace** `YOUR_BEST_REPO_1` and `YOUR_BEST_REPO_2` with your actual repo names!
+
+---
+
 ## 🛠️ Tech Stack & Tools
 <div align="center">
 
@@ -78,12 +94,26 @@ print(dev.mantra())
 
 </div>
 
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-| 🏆 Total Repos | ⭐ Total Stars | � Public Gists | � Followers |
+<img src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedadnank&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+| 🏆 Total Repos | ⭐ Total Stars | 📝 Public Gists | 👥 Followers |
 |:--------------:|:--------------:|:---------------:|:------------:|
 | ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff00&label=Repos&query=public_repos&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github&cacheSeconds=300) | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=for-the-badge&color=FFD700&logo=github&cacheSeconds=300&affiliations=OWNER) | ![Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=Gists&query=public_gists&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github&cacheSeconds=300) | ![Followers](https://img.shields.io/github/followers/muhammedadnank?style=for-the-badge&color=orange&logo=github&cacheSeconds=300) |
 
@@ -93,18 +123,53 @@ print(dev.mantra())
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedadnank&theme=react-dark&area=true&hide_border=true)
 
 ---
+
 ## 🐍 Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
-> **📝 Note**: This uses a demo animation. To generate your own, fork [Platane's Snake Generator](https://github.com/Platane/snk) and update the URLs above.
+<details>
+<summary>⚙️ How to activate YOUR snake (click to expand)</summary>
+
+1. Create `.github/workflows/snake.yml` in your profile repo with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: muhammedadnank
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Run it once manually from **Actions** tab → your snake will auto-update daily! 🐍
+
+</details>
 
 ---
+
 ## 🚀 Skills Matrix
 <div align="center">
 
@@ -136,6 +201,7 @@ mindmap
 </div>
 
 ---
+
 ## 🌱 Currently Mastering
 <div align="center">
 
@@ -150,6 +216,7 @@ mindmap
 </div>
 
 ---
+
 ## 📈 Weekly Coding Activity
 <!--START_SECTION:waka-->
 ```text
@@ -160,9 +227,35 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-> **💡 To enable auto-updating stats**: Check out [WakaTime GitHub Action](https://github.com/athul/waka-readme) for automatic weekly updates!
+<details>
+<summary>⚙️ Auto-update WakaTime stats (click to expand)</summary>
+
+1. Sign up at [wakatime.com](https://wakatime.com) and install the IDE plugin
+2. Add your `WAKATIME_API_KEY` to GitHub repo **Settings → Secrets**
+3. Create `.github/workflows/waka.yml`:
+
+```yaml
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+```
+
+</details>
 
 ---
+
 ## 💡 Fun Facts About Me
 <div align="center">
 
@@ -176,6 +269,7 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 </div>
 
 ---
+
 ## 🤝 Let's Connect!
 <div align="center">
 
@@ -193,6 +287,7 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 </div>
 
 ---
+
 ## 📌 Quick Links
 <div align="center">
 
@@ -203,6 +298,7 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 </div>
 
 ---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&animation=twinkling"/>
   
@@ -217,5 +313,4 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 
 </div>
 
-
-  <sub>✨ <b>Crafted with ❤️, ☕ and countless hours of coding by Muhammed Adnan K</b> ✨</sub>
+<sub>✨ <b>Crafted with ❤️, ☕ and countless hours of coding by Muhammed Adnan K</b> ✨</sub>
