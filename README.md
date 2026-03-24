@@ -92,12 +92,12 @@ print(dev.mantra())
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| 🎬 **GramUploader** | Telegram → YouTube auto-uploader bot | Pyrogram · FastAPI · Motor · YouTube API v3 | [@GramUploaderbot](https://t.me/GramUploaderbot) |
-| 📥 **Restricted Content Saver** | Save restricted Telegram content with auto-restart | Pyrogram · MongoDB · Render | [@SrcKLQuickBot](https://t.me/SrcKLQuickBot) |
-| 📚 **Ebook Search Bot** | Full-stack Telegram Mini App for ebooks | Pyrogram · FastAPI · React · Vite | [@ALIFdriveBot](https://t.me/ALIFdriveBot) |
-| 🔑 **Google Drive Access Manager** | Drive permission bot + OAuth2 web flow | Pyrogram · Motor · Drive API v3 · Flask | [@StoriesadminBot](https://t.me/StoriesadminBot) |
-| 🖥️ **Supreme Session Controller** | Telegram account/session manager web app | FastAPI · Pyrogram · WebSockets · React | Private |
-| 🌐 **Portfolio** | Personal developer portfolio | HTML · CSS · JS | [adnanxpkd.vercel.app](https://adnanxpkd.vercel.app) |
+| 🎬 **GramUploader** | Telegram → YouTube auto-uploader bot | Pyrogram · FastAPI · Motor · YouTube API v3 | [**GramUploaderbot**](https://t.me/GramUploaderbot) |
+| 📥 **Restricted Content Saver** | Save restricted Telegram content with auto-restart | Pyrogram · MongoDB · Render | [**SrcKLQuickBot**](https://t.me/SrcKLQuickBot) |
+| 📚 **Ebook Search Bot** | Full-stack Telegram Mini App for ebooks | Pyrogram · FastAPI · React · Vite | [**ALIFdriveBot**](https://t.me/ALIFdriveBot) |
+| 🔑 **Google Drive Access Manager** | Drive permission bot + OAuth2 web flow | Pyrogram · Motor · Drive API v3 · Flask | [**StoriesadminBot**](https://t.me/StoriesadminBot) |
+| 🖥️ **Supreme Session Controller** | Telegram account/session manager web app | FastAPI · Pyrogram · WebSockets · React | **Private** |
+| 🌐 **Portfolio** | Personal developer portfolio | HTML · CSS · JS | [**adnanxpkd.vercel.app**](https://adnanxpkd.vercel.app) |
 
 </div>
 
@@ -115,8 +115,12 @@ print(dev.mantra())
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammedadnank&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadnank&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&hide=plpgsql,dockerfile,shell" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=muhammedadnank&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -138,39 +142,6 @@ print(dev.mantra())
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-
-</div>
-
----
-
-## 🚀 Skills Matrix
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Adnan K))
-    Backend Mastery
-      FastAPI & Flask
-      REST APIs
-      Pyrogram & Kurigram
-    Frontend Craft
-      React + Vite
-      Tailwind CSS
-      CSS Modules
-    AI & Automation
-      LLM Integration
-      Telegram Bots
-      YouTube API
-    DevOps Flow
-      Render & Koyeb
-      Docker
-      Supervisor & Auto-restart
-    Community Leader
-      @AiTechWaveML
-      Malayalam Tech
-      Open Source
-```
 
 </div>
 
@@ -229,11 +200,11 @@ SQL              30 mins      █░░░░░░░░░░░░░░░�
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| 💼 LinkedIn | [muhammedadnank](https://linkedin.com/in/muhammedadnank) | Professional & Networking |
-| 💬 Telegram | [@adnanxpkd](https://t.me/adnanxpkd) | Quick Chats & Collabs |
-| 📧 Email | [adnanxpkd@gmail.com](mailto:adnanxpkd@gmail.com) | Projects & Opportunities |
-| 🚀 Community | [@AiTechWaveML](https://t.me/AITechWaveML) | **AI Updates in Malayalam** |
-| 🌐 Portfolio | [adnanxpkd.vercel.app](https://adnanxpkd.vercel.app) | Projects & Work |
+| 💼 LinkedIn | [**muhammedadnank**](https://linkedin.com/in/muhammedadnank) | Professional & Networking |
+| 💬 Telegram | [**adnanxpkd**](https://t.me/adnanxpkd) | Quick Chats & Collabs |
+| 📧 Email | [**adnanxpkd@gmail.com**](mailto:adnanxpkd@gmail.com) | Projects & Opportunities |
+| 🚀 Community | [**AiTechWaveML**](https://t.me/AITechWaveML) | **AI Updates in Malayalam** |
+| 🌐 Portfolio | [**adnanxpkd.vercel.app**](https://adnanxpkd.vercel.app) | Projects & Work |
 
 <a href="https://t.me/AITechWaveML">
   <img src="https://img.shields.io/badge/Join%20AiTechWaveML-Malayalam%20AI%20Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
