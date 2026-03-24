@@ -90,14 +90,14 @@ print(dev.mantra())
 
 <div align="center">
 
-| Project | Description | Stack | Repo |
+| Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| 🎬 **GramUploader** | Telegram → YouTube auto-uploader bot | Pyrogram · FastAPI · Motor · YouTube API v3 | [View](https://github.com/muhammedadnank/GramUploader) |
-| 📥 **KLQuick Bot** | Save restricted Telegram content with auto-restart | Pyrogram · MongoDB · Render | [View](https://github.com/muhammedadnank/KLQuick) |
-| 📚 **Ebook Search Bot** | Full-stack Telegram Mini App for ebooks | Pyrogram · FastAPI · React · Vite | [View](https://github.com/muhammedadnank/ebook-search-bot) |
-| 🔑 **Google Drive Access Manager** | Drive permission bot + OAuth2 web flow | Pyrogram · Motor · Drive API v3 · Flask | [View](https://github.com/muhammedadnank/gdrive-access-manager) |
-| 🖥️ **Supreme Session Controller** | Telegram account/session manager web app | FastAPI · Pyrogram · WebSockets · React | [View](https://github.com/muhammedadnank/supreme-session-controller) |
-| 🌐 **Portfolio** | Personal developer portfolio | HTML · CSS · JS | [View](https://github.com/muhammedadnank/portfolio) |
+| 🎬 **GramUploader** | Telegram → YouTube auto-uploader bot | Pyrogram · FastAPI · Motor · YouTube API v3 | [@GramUploaderbot](https://t.me/GramUploaderbot) |
+| 📥 **Restricted Content Saver** | Save restricted Telegram content with auto-restart | Pyrogram · MongoDB · Render | [@SrcKLQuickBot](https://t.me/SrcKLQuickBot) |
+| 📚 **Ebook Search Bot** | Full-stack Telegram Mini App for ebooks | Pyrogram · FastAPI · React · Vite | [@ALIFdriveBot](https://t.me/ALIFdriveBot) |
+| 🔑 **Google Drive Access Manager** | Drive permission bot + OAuth2 web flow | Pyrogram · Motor · Drive API v3 · Flask | [@StoriesadminBot](https://t.me/StoriesadminBot) |
+| 🖥️ **Supreme Session Controller** | Telegram account/session manager web app | FastAPI · Pyrogram · WebSockets · React | Private |
+| 🌐 **Portfolio** | Personal developer portfolio | HTML · CSS · JS | [adnanxpkd.vercel.app](https://adnanxpkd.vercel.app) |
 
 </div>
 
