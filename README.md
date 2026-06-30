@@ -1,6 +1,16 @@
-# Muhammed Adnan K <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px" alt="Waving Hand">
+<div align="center">
 
-Python Full Stack Developer • Telegram Bots • FastAPI • Python • AI • React/Next.js
+# Muhammed Adnan K 👋
+
+**Python Full Stack Developer**
+
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![React/Next.js](https://img.shields.io/badge/React%2FNext.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
 
 ---
 
