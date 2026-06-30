@@ -31,5 +31,10 @@ Python Full Stack Developer • Telegram Bots • FastAPI • Python • AI • 
 
 ---
 
-📧 [adnanxpkd@gmail.com](mailto:adnanxpkd@gmail.com) · 💬 [Telegram](https://t.me/adnanxpkd) · 💼 [LinkedIn](https://linkedin.com/in/muhammedadnank) · 🌐 [Portfolio](https://adnanxpkd.vercel.app) · 🚀 [AiTechWaveML](https://t.me/AITechWaveML)
-
+<p align="left">
+  <a href="mailto:adnanxpkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://t.me/adnanxpkd"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://linkedin.com/in/muhammedadnank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://adnanxpkd.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://t.me/AITechWaveML"><img src="https://img.shields.io/badge/AiTechWaveML-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="AiTechWaveML"/></a>
+</p>
