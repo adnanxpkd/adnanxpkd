@@ -24,9 +24,9 @@ Python Full Stack Developer • Telegram Bots • FastAPI • Python • AI • 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammedadnank/muhammedadnank/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monukodasseri-wq/pacman-graph/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monukodasseri-wq/pacman-graph/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/monukodasseri-wq/pacman-graph/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
